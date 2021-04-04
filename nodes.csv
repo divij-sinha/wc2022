@@ -1,0 +1,39 @@
+name,x,y,name2,color
+Champions in prelim,0.01,0.65,CL Preliminary Round entrants,#99b9dd
+CL Preliminary Round,0.07,0.6,CL Preliminary Round,#0050AA
+Champions 18-51,0.07,0.75,CL 1st Qual Round entrants,#99b9dd
+CL First Qual,0.15,0.7,CL 1st Qual Round,#0050AA
+Champions path,0.15,0.78,CL 2nd Qual Champions entrants,#99b9dd
+League Path,0.15,0.57,CL 2nd Qual League entrants,#99b9dd
+CL Second Qual Champ,0.27,0.67,CL 2nd Qual Champions Path,#0050AA
+CL Second Qual League,0.27,0.51,CL 2nd Qual League Path,#0050AA
+League Path 2,0.27,0.6,CL 3rd Qual League entrants,#99b9dd
+Champions path 2,0.27,0.75,CL 3rd Qual Champions entrants,#99b9dd
+CL Third Qual Champ,0.43,0.64,CL 3rd Qual Champions Path,#0050AA
+CL Third Qual League,0.43,0.54,CL 3rd Qual League Path,#0050AA
+Champions path 3,0.43,0.72,CL Play-off Champions entrants,#99b9dd
+Champions path 4,0.66,0.69,Champions Direct Group stage entrants,#99b9dd
+League Direct 2nd place,0.66,0.73,League Direct 2nd place entrants,#99b9dd
+League Direct 3rd place,0.66,0.77,League Direct 3rd place entrants,#99b9dd
+League Direct 4th place,0.66,0.81,League Direct 4th place entrants,#99b9dd
+CL Play-off Round Champ,0.66,0.6,CL Play-off Round Champions Path,#0050AA
+CL Play-off Round League,0.66,0.57,CL Play-off Round League Path,#0050AA
+CL holder,0.66,0.85,CL holder,purple
+EL holder,0.66,0.89,EL holder,gold
+EL in prelim,0.01,0.01,EL Preliminary Round entrants,#fadda6
+EL Preliminary Round,0.07,0.05,EL Preliminary Round,#F4AC21
+EL in first,0.07,0.23,EL 1st Qual entrants,#fadda6
+EL in second,0.15,0.1,EL 2nd Qual entrants,#fadda6
+EL First Qual Round,0.15,0.25,EL 1st Qual Round,#F4AC21
+EL in third,0.27,0.15,EL 3rd Qual entrants,#fadda6
+EL Second Qual Main,0.27,0.3,EL 2nd Qual Main Path,#F4AC21
+EL Second Qual Champ,0.27,0.45,EL 2nd Qual Champions Path,#F4AC21
+EL Third Qual Main,0.43,0.28,EL 3rd Qual Main Path,#F4AC21
+EL Third Qual Champ,0.43,0.4,EL 3rd Qual Champions Path,#F4AC21
+EL Play-off Round Main,0.66,0.28,EL Play-off Round Main Path,#F4AC21
+EL Play-off Round Champ,0.66,0.35,EL Play-off Round Champions Path,#F4AC21
+EL in 4,0.66,0.2,EL Group stage entrants,#fadda6
+EL Group stage (48),0.85,0.45,EL Group stage (48),#db9a1d
+CL Group stage (32),0.85,0.65,CL Group stage (32),#004088
+EL Knockout,0.95,0.5,EL Knockout (32),grey
+CL Knockout,0.95,0.7,CL Knockout (16),grey
